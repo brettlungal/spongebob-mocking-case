@@ -2,7 +2,7 @@
 
 ## Installation
 - ClOnE tHiS rEpO gEnIuS
-![getrekt](https://avatars.slack-edge.com/2019-11-08/815814807251_8866e9be17a1345d93fa_512.png)
+- ![getrekt](https://avatars.slack-edge.com/2019-11-08/815814807251_8866e9be17a1345d93fa_512.png)
 
 ## Usage
 - Script has two parameters
