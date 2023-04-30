@@ -8,7 +8,7 @@
 - Script has two parameters
     - --phrase : required parameter followed by a string to format
     - --startUpper : optional parameter if you want the formatted string to start with an upper case character
-- Run mock.py with the above mentioned parameters and the formatted string will be printed to the console for you to copy and meme on your friends with
+- Run mock.py with the above parameters and the formatted string will be printed to the console for you to copy and meme on your friends with
 
 ## Examples
 ```bash
